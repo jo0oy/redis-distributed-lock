@@ -129,3 +129,6 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,java,gradle
+
+### docker-compose data directory ###
+db/data/
